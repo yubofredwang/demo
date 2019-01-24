@@ -1,5 +1,8 @@
 {
   "profile": {
-    "name": "typicode"
+    "status": "ALIVE",
+    "guess_remain": "1",
+    "token": "xxxxxxxx",
+    "state: "---------"
   }
 }
