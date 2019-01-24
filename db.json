@@ -1,8 +1,5 @@
 {
-  "game" : {
-  "status": "ALIVE",
-  "guess_remain": "1",
-  "token": "xajsdfa",
-  "state": "___ __-____ ___'_ _____"
+  "profile": {
+    "name": "typicode"
   }
 }
